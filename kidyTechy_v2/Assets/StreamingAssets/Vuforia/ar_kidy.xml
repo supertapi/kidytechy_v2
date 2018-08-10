@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Screenshot_2" size="10.000000 14.137931" />
+    <ImageTarget name="as001" size="10.000000 14.206897" />
+    <ImageTarget name="Italian_traffic_signs_-_icona_castello" size="10.000000 10.000000" />
+    <ImageTarget name="th" size="10.000000 10.000000" />
+    <ImageTarget name="marker_1" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>

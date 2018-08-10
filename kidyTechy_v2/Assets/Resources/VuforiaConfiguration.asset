@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2067402452, guid: bab6fa851cf5a1a4bba3cec5f191cb8e, type: 3}
+  m_Name: VuforiaConfiguration
+  m_EditorClassIdentifier: 
+  vuforia:
+    vuforiaLicenseKey: AYzdIvX/////AAABGV1KLjVtkEM2i4c7H7dWsHQ+cgHcwgNhuLIUGS59r5c0itVgeXZy+W+eMW/hfw8j3XWUEVTWrj68XNI2/OeDmvasKjFABLYTo1rit0edvV6wznSteNiuljine6EWul6DpghZJd+zXVZ4zyWy4P93tS2ouGHEXdAn7cignyVcSuT4bxJr7Cu4nR0kqCNgro6xBUy7qSs40HX+Wgy7ft4mp37pE3rZlUxL2n/dwZjuJ/NWDgHQhYhSe3fcg64DgyhfNcDddfzbq9tO29EOe4gPfIV0m1z2Mu8WuiQz7QxVqnHIFBVyF2F7t5stvVs5W+YtiuZmrhuhdq5D3syiL6d2QK7DFPJrjUfjNqpjQo/CuAQo
+    ufoLicenseKey: QWFyYS9pZi8vLy8vQUFBQUtEV1ZuYTJmOFU4NWpiL1hzT3lYZFJvY1BFK0JkR2h4YkpHamRwRG5peStXUUFaSXZudGFUMG1RN3Z1dzBPbjdaN2xNZkZRNmRFRS9Sc0dXdm80Q21paDBmajZSbVpsVVZ5d2FuQkkyMmNWWHd0bjhrQTBvNjhKY0JIVlJjR2tGZTJDOUxaRnVYeDM4S1dJdm1WQmVTY241RWVRSzdkWkttUUxXS1l1cE9FcnBGNEJoWWFENFRXYlMzZGw5bGpHZ2pkQ05penc3VmxHVzdCVnl1cDdaTURoRkdxeUNGK3NLbWNCT2xleWNtKzdwd2kvc0JldWhuZmErWVN3RisraDVKRlRqNGF6S0ZscENPTjNMY0hpdG52M2ovMWNzMmxmNWhtbFV6eG45dW03Z092cjA0ZjZlRVZ1T1lIbXUrZlVBa1BXZzRrc0VZeE5QTE9XNm9nN0tPdHdVWUM3cWwydWlsNnlYTkUvbVl3djE=
+    delayedInitialization: 0
+    cameraDeviceModeSetting: -1
+    maxSimultaneousImageTargets: 4
+    maxSimultaneousObjectTargets: 15
+    useDelayedLoadingObjectTargets: 0
+    cameraDirection: 0
+    mirrorVideoBackground: 0
+  digitalEyewear:
+    cameraOffset: 0.06
+    distortionRenderingLayer: 31
+    eyewearType: 0
+    stereoFramework: 0
+    seeThroughConfiguration: 0
+    viewerName: 
+    viewerManufacturer: 
+    useCustomViewer: 0
+    customViewer:
+      Version: 0
+      Name: 
+      Manufacturer: 
+      ButtonType: 0
+      ScreenToLensDistance: 0
+      InterLensDistance: 0
+      TrayAlignment: 0
+      LensCenterToTrayDistance: 0
+      DistortionCoefficients: {x: 0, y: 0}
+      FieldOfView: {x: 0, y: 0, z: 0, w: 0}
+      ContainsMagnet: 0
+  videoBackground:
+    clippingMode: 0
+    numDivisions: 2
+    videoBackgroundShader: {fileID: 15311, guid: 0000000000000000f000000000000000,
+      type: 0}
+    matteShader: {fileID: 15310, guid: 0000000000000000f000000000000000, type: 0}
+    videoBackgroundEnabled: 1
+  deviceTracker:
+    autoInitTracker: 1
+    autoStartTracker: 1
+    trackingMode: 1
+    posePrediction: 0
+    modelCorrectionMode: 0
+    modelTransformEnabled: 0
+    modelTransform: {x: 0, y: 0.1, z: -0.1}
+  smartTerrain:
+    autoInitTracker: 0
+    autoStartTracker: 0
+  webcam:
+    deviceNameSetInEditor: AUKEY PC-LM1 USB Camera
+    flipHorizontally: 0
+    turnOffWebCam: 0
+    renderTextureLayer: 30
