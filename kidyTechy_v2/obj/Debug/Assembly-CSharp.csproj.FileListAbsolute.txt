@@ -170,3 +170,5 @@ D:\git_kidytechy\kidytechy_v2\kidyTechy_v2\Temp\bin\Debug\UnityEngine.Localizati
 D:\git_kidytechy\kidytechy_v2\kidyTechy_v2\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
 D:\git_kidytechy\kidytechy_v2\kidyTechy_v2\Temp\bin\Debug\UnityEngine.StreamingModule.xml
 D:\git_kidytechy\kidytechy_v2\kidyTechy_v2\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\git_kidytechy\kidytechy_v2\kidyTechy_v2\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+D:\git_kidytechy\kidytechy_v2\kidyTechy_v2\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml

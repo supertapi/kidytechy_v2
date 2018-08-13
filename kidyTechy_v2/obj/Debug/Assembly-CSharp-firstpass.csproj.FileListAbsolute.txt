@@ -169,3 +169,5 @@ D:\git_kidytechy\kidytechy_v2\kidyTechy_v2\obj\Debug\Assembly-CSharp-firstpass.c
 D:\git_kidytechy\kidytechy_v2\kidyTechy_v2\obj\Debug\Assembly-CSharp-firstpass.csproj.CopyComplete
 D:\git_kidytechy\kidytechy_v2\kidyTechy_v2\obj\Debug\Assembly-CSharp-firstpass.dll
 D:\git_kidytechy\kidytechy_v2\kidyTechy_v2\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\git_kidytechy\kidytechy_v2\kidyTechy_v2\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+D:\git_kidytechy\kidytechy_v2\kidyTechy_v2\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
